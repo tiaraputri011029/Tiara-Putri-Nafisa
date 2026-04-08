@@ -36,3 +36,9 @@ body{
     display:block;
     text-align:center;
     color:#FFF;
+    text-decoration:none;
+}
+.menu ul li a:hover {
+    background-color:#4b88bb;
+    display:block;
+}
